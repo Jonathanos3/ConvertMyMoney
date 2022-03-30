@@ -2,8 +2,8 @@ body{
   text-align: center;
 }
 h1 img{
-  width: 498px;
-margin: 20px;
+width: 250px;
+margin: 10px;
 }
 input{
   border: 1px solid #000000;
@@ -13,13 +13,15 @@ input{
   margin: 4px;
 }
 button{
-  border: 1px solid #000000;
-  background: #d8d8d8;
+  border: 1px solid #020202;
+  background: #6365e9;
   font-size: 20px;
   padding: 10px;
+  margin: 4px;
+  width: 265px;
 }
 .result{
   padding: 10px;
   border: 1px solid #d8d8d8;
-  background: #fdfdfd;
+  background: #e5e7e9;
 }
